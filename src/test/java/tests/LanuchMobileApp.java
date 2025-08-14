@@ -65,7 +65,7 @@ public class LanuchMobileApp {
 		AndroidDriver driver = new AndroidDriver(url, options);
 		
 		
-		System.out.println(driver.getSessionId());
+		System.out.println("The session id is : " + driver.getSessionId());
 		
 		
 

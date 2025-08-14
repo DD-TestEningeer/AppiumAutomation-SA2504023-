@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.LocatorsDemo">
+      <class name="tests2.AppManagementWithTestNGAssertions">
         <methods>
-          <include name="appiumLocatorTest"/>
+          <include name="testAppManagement"/>
         </methods>
-      </class> <!-- tests.LocatorsDemo -->
+      </class> <!-- tests2.AppManagementWithTestNGAssertions -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
