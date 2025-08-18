@@ -3,3 +3,15 @@
 2025-08-14 22:30:48 INFO  utils.LogUtil - this is text from logger
 2025-08-14 22:30:48 ERROR utils.LogUtil - Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "driver" is null
 2025-08-14 22:31:36 INFO  utils.LogUtil - this is text from logger
+2025-08-18 21:14:10 INFO  utils.LogUtil - this is text from logger
+2025-08-18 21:14:10 ERROR utils.LogUtil - Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "driver" is null
+2025-08-18 21:19:47 INFO  utils.LogUtil - The current state of app :  RUNNING_IN_FOREGROUND
+2025-08-18 21:19:48 INFO  utils.LogUtil - The app is uninstalled
+2025-08-18 21:20:23 INFO  utils.LogUtil - Result Text is: Dropped!
+2025-08-18 21:20:23 INFO  utils.LogUtil - The question1 test started..........
+2025-08-18 21:20:36 INFO  utils.LogUtil - The session id is : d88b9e41-d7a4-461e-87c4-dbc7137d2d7e
+2025-08-18 21:20:37 INFO  utils.LogUtil - The question1 test ended..........
+2025-08-18 21:24:35 INFO  utils.LogUtil - The current state of app :  RUNNING_IN_FOREGROUND
+2025-08-18 21:24:37 INFO  utils.LogUtil - The app is uninstalled
+2025-08-18 21:25:08 INFO  utils.LogUtil - Result Text is: Dropped!
+2025-08-18 21:25:08 INFO  utils.LogUtil - The question1 test started..........

@@ -60,7 +60,7 @@ public class LanuchMobileApp {
 		options.setCapability("appium:app", "C:\\StarAgile\\AndroidMobileTestingDemo\\demo.apk");
 		
 		
-		URL url = new URL("http://127.0.0.1:4723/");
+		URL url = new URL("http://127.0.0.1:8888/");
 		
 		AndroidDriver driver = new AndroidDriver(url, options);
 		
